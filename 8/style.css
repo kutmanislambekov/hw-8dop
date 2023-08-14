@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#buttons{
+    
+    gap : 40px;
+    width: 300px;
+    height:100px;
+    margin: 20px auto;  
+}
+
+#posts{
+border: 2px solid black;
+width:580px;
+border-radius: 10px;
+margin: 35px auto;
+
+}
+
+button#all_posts {
+    width: 100px;
+}
+button{
+    width: 100px;
+}
